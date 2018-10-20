@@ -126,7 +126,7 @@ void MainWindow::on_actionPaste_triggered()
 
 void MainWindow::on_actionfind_triggered()
 {
- ui->textEdit->find("qwe");
+ //ui->textEdit->find();
 }
 
 void MainWindow::on_actionRedo_triggered()
